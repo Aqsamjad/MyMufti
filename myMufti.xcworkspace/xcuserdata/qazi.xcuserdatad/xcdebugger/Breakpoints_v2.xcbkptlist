@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9443A909-E63E-47E3-85A7-90C9314226CD"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A53B3646-8BD3-4F56-AC9B-92299EC327D1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myMufti/ViewControllers/Ask a QuestionVC/AskQuestionVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "submitBtn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E0D678C0-4A64-44E0-A38D-F3C83771DEEB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myMufti/ViewControllers/FullQuestionVC/FullQuestionVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "160"
+            endingLineNumber = "160"
+            landmarkName = "callUserCommentAPI()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E0D678C0-4A64-44E0-A38D-F3C83771DEEB - 360a963394fe2de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myMufti.FullQuestionVC.callUserCommentAPI() -&gt; ()"
+                  moduleName = "myMufti"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qazi/Documents/Xcode/myMufti/myMufti/ViewControllers/FullQuestionVC/FullQuestionVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "160"
+                  endingLineNumber = "160"
+                  offsetFromSymbolStart = "862">
+               </Location>
+               <Location
+                  uuid = "E0D678C0-4A64-44E0-A38D-F3C83771DEEB - 360a963394fe2de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myMufti.FullQuestionVC.callUserCommentAPI() -&gt; ()"
+                  moduleName = "myMufti"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qazi/Documents/Xcode/myMufti/myMufti/ViewControllers/FullQuestionVC/FullQuestionVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "160"
+                  endingLineNumber = "160"
+                  offsetFromSymbolStart = "973">
+               </Location>
+               <Location
+                  uuid = "E0D678C0-4A64-44E0-A38D-F3C83771DEEB - 3c1e9174f3245e7b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in myMufti.FullQuestionVC.callUserCommentAPI() -&gt; ()"
+                  moduleName = "myMufti"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qazi/Documents/Xcode/myMufti/myMufti/ViewControllers/FullQuestionVC/FullQuestionVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "161"
+                  endingLineNumber = "161"
+                  offsetFromSymbolStart = "58">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14F5A9A1-F6CE-4B2D-A61A-5AB8E42444C3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myMufti/ViewControllers/FullQuestionVC/FullQuestionVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "167"
+            endingLineNumber = "167"
+            landmarkName = "callUserCommentAPI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9DD4AF05-9F00-452E-8C56-AA2D475137F5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myMufti/ViewControllers/FullQuestionVC/FullQuestionVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "callUserCommentAPI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
